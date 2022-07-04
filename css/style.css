@@ -101,3 +101,15 @@ img#a {
 .wool h2{
     font-size: 3.5em;
 }
+.About img{
+    position: absolute;
+    top: 2656px;
+    left: -29px;
+    width: 1488.5px;
+    height: 822.5px;
+}
+.Footer img{
+    position: absolute;
+    top: 3462px;
+    opacity: 0%;
+}
