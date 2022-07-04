@@ -103,10 +103,14 @@ img#a {
 }
 .About img{
     position: absolute;
-    top: 2656px;
+    top: 2556px;
     left: -29px;
     width: 1488.5px;
     height: 822.5px;
+    transition: 1s;
+}
+.container:hover .About{
+    margin-right: 1px;
 }
 .Footer img{
     position: absolute;
